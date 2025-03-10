@@ -39,3 +39,6 @@ receipts_*/
 *.pdf
 *.png
 config.json
+
+# macOS specific
+.DS_Store
